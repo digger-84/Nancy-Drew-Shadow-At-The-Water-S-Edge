@@ -196,3 +196,6 @@ This repository serves as the official landing page for Nancy Drew: Shadow at th
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Nancy Drew: Shadow at the Water's Edge today!**
+
+---
+**Last updated:** 2026-11-06 23:57:55 UTC
